@@ -1,7 +1,7 @@
 
-# publish
+# publish_cli is a fork of the original [publish]("https://pub.dev/packages/publish") package
 
-**publish** is a Flutter CLI package designed to simplify app configuration, including setting app names, app IDs, and Android signing configurations for Play Store publishing. It removes the hassle of manual setup and allows developers to focus on building great apps.
+**[publish]("https://pub.dev/packages/publish")** is a Flutter CLI package designed to simplify app configuration, including setting app names, app IDs, and Android signing configurations for Play Store publishing. It removes the hassle of manual setup and allows developers to focus on building great apps.
 
 ## Features:
 

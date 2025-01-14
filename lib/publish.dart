@@ -3,7 +3,7 @@ library publish;
 import 'dart:convert';
 import 'dart:io';
 import 'package:args/command_runner.dart';
-import 'package:publish/src/extensions.dart';
+import 'package:publish_cli/src/extensions.dart';
 import 'package:xml/xml.dart';
 import 'package:yaml/yaml.dart';
 import 'package:http/http.dart' as http;

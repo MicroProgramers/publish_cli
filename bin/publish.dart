@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:args/command_runner.dart';
-import 'package:publish/publish.dart'; // Import your library
+import 'package:publish_cli/publish.dart'; // Import your library
 
 void main(List<String> arguments) async {
   final runner = CommandRunner(
